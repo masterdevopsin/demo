@@ -34,3 +34,10 @@ bsx
 bhs
 hs
 hs
+sfb
+sb
+sb
+s
+hsh
+hsr
+
